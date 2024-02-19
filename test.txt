@@ -1,3 +1,9 @@
 hello world, how are you Jason.
 
+<<<<<<< HEAD
 branch master
+=======
+Add some text...
+
+abcdefghijklmnopqrstuvwxyz
+>>>>>>> AmendTest
