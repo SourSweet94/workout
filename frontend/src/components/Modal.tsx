@@ -13,6 +13,7 @@ const Modal = ({ show, onHide, onSave, workout }: ModalProps) => {
     // Validate and save the edited workout
     onSave(workout);
   };
+  console.log(workout)
 
   return (
     <BSModal show={show} onHide={onHide}>
